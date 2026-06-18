@@ -1,0 +1,14 @@
+.env
+.venv/
+.tmp/
+.pytest_cache/
+pytest-cache-files-*/
+__pycache__/
+**/__pycache__/
+*.pyc
+.git/
+docs/
+tests/
+htmlcov/
+.coverage
+logs/
